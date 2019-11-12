@@ -24,7 +24,7 @@ Download the source code from this repository to a local computer.
 
 2. Instructions for detection and tracking
 
-Testing environment: Ubuntu 18.04, Python 3.6.7, NVIDIA GTX1080-Ti. 
+Testing environment: Ubuntu 18.04, Python 3.6.7, TensorFlow 1.12, NVIDIA GTX1080-Ti. 
 
 2.1. Install necessary packages: tensorflow (tested in 1.12.0), tensorflow models, numba (0.40.0), opencv-python (3.4.2.17), opencv-contrib-python (3.4.2.17), pandas (0.23.4), scikit-image (0.14.0), and scikit-learn (0.20.0)
 
