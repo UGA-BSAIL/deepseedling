@@ -37,6 +37,5 @@ Testing environment: Ubuntu 18.04, Python 3.6.7, NVIDIA GTX1080-Ti.
 2.5. Run visualize_seedling_tracking_batch.py to track seedling detections, count the number of seedlings, and save the counted results in testing videos. Please see the program header for detailed explanation of changable parameters.
 
 
-
 3. Additional resources
 Original seedling images/videos and annotations can be downloaded via the link https://figshare.com/s/616956f8633c17ceae9b. All annotations were made using MS VOTT 1.5 version.
