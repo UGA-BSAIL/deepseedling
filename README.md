@@ -1,4 +1,4 @@
-# deepseedling
+# DeepSeedling
 DeepSeedling: Deep convolutional network and Kalman filter for plant seedling detection and counting in the field
 
 This repository contains the source code and instruction for running models trained for seedling detection. Detailed methodology and results can be found from our paper (Under review with Plant Methods).
