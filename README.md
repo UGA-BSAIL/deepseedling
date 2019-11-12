@@ -39,3 +39,5 @@ Testing environment: Ubuntu 18.04, Python 3.6.7, TensorFlow 1.12, NVIDIA GTX1080
 
 3. Additional resources
 Original seedling images/videos and annotations can be downloaded via the link https://figshare.com/s/616956f8633c17ceae9b. All annotations were made using MS VOTT 1.5 version.
+
+Testing vidoes can be downloaded via the link https://figshare.com/s/9843500de7758a79d967.
